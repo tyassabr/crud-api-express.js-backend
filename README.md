@@ -1,4 +1,4 @@
-# Expess.js - BACKEND
+# Express.js - BACKEND
 - CRUD
 - Search Products by Name
 - Sort Products by Name, Price, Category, Newest, etc
